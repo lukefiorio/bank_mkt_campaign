@@ -6,6 +6,8 @@ This project uses data on bank customers that were part of a targeted marketing 
 We read the data from a link made available through University of Washington:
 - https://library.startlearninglabs.uw.edu/DATASCI420/2019/Datasets/SuperstoreTransaction.csv
 
+For replicability, we also provide the raw csv data directly within the repository ([here](https://github.com/lukefiorio/bank_mkt_campaign/raw/main/SuperstoreTransaction.csv)).
+
 #### Abstract
 
 Our data consists of 600 bank customers targeted in a marketing campaign.  Our goal is to build a predictive model for promotional targeting, with future plans to focus only on customers most likely to respond to the promotion.
